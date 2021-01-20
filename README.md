@@ -5,6 +5,9 @@ You can use the [editor on GitHub](https://github.com/AsionNguyen/Test/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.hjhjhjhjhjhjhjhjhjhjhjhjhjhjhj
 $$p(x)\equiv 0 \mod N$$
+**–**{:.exercise}
+  Soient les polynômes $$P_1=x^6+2x^5-2x^4+2x^2-2x-1$$ et
+  $$P_2=x^5+x^4-2x^3+x^2+x-2$$.
 
 ### Markdown
 
